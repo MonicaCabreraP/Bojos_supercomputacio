@@ -1,0 +1,12 @@
+name: randomforest_skcm
+title:
+username:
+account: rchaeologist
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1268445
+bundleId: 2469147
+url: https://rchaeologist.shinyapps.io/randomforest_skcm/
+when: 1570209685.50982
+asMultiple: FALSE
+asStatic: FALSE
