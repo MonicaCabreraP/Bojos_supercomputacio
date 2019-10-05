@@ -4,6 +4,22 @@
 
 ![](doc/dna-1903875_1280.jpg)
 
+# Hands on parte I
+
+# Hands on parte II
+
+# Hands on parte III
+
+## Script
+Hay que crearse una cuenta:
+
+Acceder al link: https://rstudio.cloud/project/385639 .
+
+## Matrix de confusión
+
+https://rchaeologist.shinyapps.io/randomforest_skcm/
+
+
 ## Slides
 
 [link to slides](https://drive.google.com/file/d/1rGsbKkiIceXtlSSBTKJeHGnUMHo6br72/view?usp=sharing)
