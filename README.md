@@ -22,7 +22,7 @@ https://rchaeologist.shinyapps.io/randomforest_skcm/
 
 ## Slides
 
-[link to slides](https://drive.google.com/file/d/1rGsbKkiIceXtlSSBTKJeHGnUMHo6br72/view?usp=sharing)
+[link to slides](Slides/bojos_group1.pdf)
 
 ## Time table
 
